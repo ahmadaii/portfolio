@@ -73,6 +73,7 @@ Senior AI Engineer with 5+ years designing and deploying production-grade AI sys
 |---|---|---|---|
 | [**Knobi**](./knobi/README.md) | RAG · Multi-tenant SaaS · LLM Agent | LangChain · Qdrant · FastAPI · Next.js · OpenAI | [→](./knobi/README.md) |
 | [**PanteraGPT RAG**](./panteragpt-rag/README.md) | Legal RAG · Hybrid Search · Spanish NLP · Domain-Specialised Indexing | Haystack · OpenSearch · BM25 + KNN · Sentence Transformers · GPT-4o · FastAPI | [→](./panteragpt-rag/README.md) |
+| [**Contabox**](./contabox/README.md) | Tax Automation AI · Prompt Engineering · Structured Outputs · Compliance | GPT-4 · LangChain · Pydantic · FastAPI · MongoDB · SAT API | [→](./contabox/README.md) |
 | [**ThriveLink Bot Analytics**](./thrivelink-bot-analytics/README.md) | Data Pipeline · ETL · Conversation Analytics | Apache Beam · Dataflow · BigQuery · Dialogflow CX | [→](./thrivelink-bot-analytics/README.md) |
 | [**Zovax**](./zovax/README.md) | RAG · WhatsApp AI · Multi-tenant SaaS | LangChain · Qdrant · FastAPI · React · WhatsApp API | [→](./zovax/README.md) |
 | [**RelateHub**](./relatehub/README.md) | Conversational AI · Personality AI · Cross-platform | OpenAI · Dialogflow CX · React Native · Parse Server | [→](./relatehub/README.md) |
