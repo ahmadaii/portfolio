@@ -72,9 +72,17 @@ Senior AI Engineer with 5+ years designing and deploying production-grade AI sys
 | Project | Type | Stack | |
 |---|---|---|---|
 | [**Knobi**](./knobi/README.md) | RAG · Multi-tenant SaaS · LLM Agent | LangChain · Qdrant · FastAPI · Next.js · OpenAI | [→](./knobi/README.md) |
+| [**PanteraGPT RAG**](./panteragpt-rag/README.md) | Legal RAG · Hybrid Search · Spanish NLP · Domain-Specialised Indexing | Haystack · OpenSearch · BM25 + KNN · Sentence Transformers · GPT-4o · FastAPI | [→](./panteragpt-rag/README.md) |
+| [**Knobi MT**](./knobi-mt/README.md) | RAG · Hybrid Search · Agentic Retrieval · Multi-tenant Platform | Qdrant · LangChain · FastAPI · OpenAI Ada · tiktoken · Next.js | [→](./knobi-mt/README.md) |
 | [**ThriveLink Bot Analytics**](./thrivelink-bot-analytics/README.md) | Data Pipeline · ETL · Conversation Analytics | Apache Beam · Dataflow · BigQuery · Dialogflow CX | [→](./thrivelink-bot-analytics/README.md) |
 | [**Zovax**](./zovax/README.md) | RAG · WhatsApp AI · Multi-tenant SaaS | LangChain · Qdrant · FastAPI · React · WhatsApp API | [→](./zovax/README.md) |
 | [**RelateHub**](./relatehub/README.md) | Conversational AI · Personality AI · Cross-platform | OpenAI · Dialogflow CX · React Native · Parse Server | [→](./relatehub/README.md) |
+| [**Coachendo Chatbot Loader**](./coachendo-chatbot-loader/README.md) | Infrastructure Automation · Dialogflow CX · Internal Tool | Node.js · Dialogflow CX API · Google Sheets · Google Drive | [→](./coachendo-chatbot-loader/README.md) |
+| [**Coachendo Chatbot Trainer**](./coachendo-chatbot-trainer/README.md) | ML Microservice · Embeddings · Clustering · Text Generation | Python · FastAPI · Sentence Transformers · KMeans · DialoGPT · OpenAI | [→](./coachendo-chatbot-trainer/README.md) |
+| [**Coachendo Events**](./coachendo-events/README.md) | Event-Driven Microservices · Notification Engine · Serverless | Node.js · GCP Cloud Functions · Pub/Sub · Firebase FCM · MongoDB | [→](./coachendo-events/README.md) |
+| [**Rocket.Chat × FlowXO**](./rocketchat-pantera-flowxo/README.md) | Livechat Integration · Bot Middleware · Rocket.Chat App | TypeScript · Rocket.Chat Apps SDK · FlowXO Webhook API | [→](./rocketchat-pantera-flowxo/README.md) |
+| [**Rocket.Chat × WhatsApp**](./rocketchat-pantera-whatsapp/README.md) | WhatsApp Template Messaging · Livechat Integration · Rocket.Chat App | TypeScript · Rocket.Chat Apps SDK · Meta WhatsApp Cloud API | [→](./rocketchat-pantera-whatsapp/README.md) |
+| [**Rocket.Chat Forward**](./rocketchat-pantera-forward/README.md) | Livechat Routing · Agent Availability · Rocket.Chat App | TypeScript · Rocket.Chat Apps SDK · Rocket.Chat REST API | [→](./rocketchat-pantera-forward/README.md) |
 | **Xiomara** | Workflow Automation · AI Reporting | n8n · Gemini · Python | — |
 
 ---
